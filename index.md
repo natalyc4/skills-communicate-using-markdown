@@ -11,4 +11,8 @@ I am practicing writing code.
 This is fun.
 ```
 
-I have created headers of different sizes and added a picture of a cat.
+- [ ] Do Github Assignment
+- [X] Do discussion Board
+- [ ] Go to Calculus at 1pm
+
+I have created headers of different sizes, added a picture of a cat, wrote some text, and made a list.
